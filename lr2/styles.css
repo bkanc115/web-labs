@@ -1,0 +1,38 @@
+img {
+  height: 60px;
+}
+
+header {
+  background-color: #1a3a5c;
+  color: #ffffff;
+  padding: 16px;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+main {
+  background-color: #f2f2f2;
+  color: #000000;
+  padding: 24px;
+}
+
+body {
+  margin: 0;
+  padding-bottom: 50px;
+}
+
+footer {
+  background-color: #2e6da4;
+  color: #ffffff;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
